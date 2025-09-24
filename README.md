@@ -1,10 +1,14 @@
-# Atividade Final
+## Atividade Final
 
-**Histórico de Atividades / Commits:**   
-- **17/09/25:** Atividade em dupla com Giovana Generoso (@/giovana-088).  
-- **Professor:** Celso (@/celsoricarvalho).
+**Registro de Atividades / Commits:**
 
-## Descrição do Projeto
-Esta aplicação é a evolução da API de gerenciamento de tarefas do usuário único, desenvolvida inicialmente. O objetivo desta versão é transformar a API em uma aplicação **testável**, **segura**, **persistente**,**multiusuário**
+**23/09/25**: Trabalho feito em dupla com Giovana Generoso (@/giovana-088).
 
-Cada usuário possui sua própria lista de tarefas privada, garantindo que ninguém possa visualizar ou modificar as tarefas de outro usuário.
+**Professor**: Celso (@/celsoricarvalho).
+
+**Descrição do Projeto**
+
+Esse projeto é a continuação da API de gerenciamento de tarefas que tinha sido feita antes para um único usuário.
+Agora, a proposta foi evoluir a aplicação para que ela seja **testável**, **segura**, **persistente** e também **multiusuário**.
+
+Com isso, cada pessoa passa a ter sua própria lista de tarefas particular, sem risco de outros usuários acessarem ou alterarem informações que não são deles.
